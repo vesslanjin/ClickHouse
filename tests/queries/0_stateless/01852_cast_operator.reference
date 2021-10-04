@@ -32,3 +32,4 @@ SELECT CAST((CAST(\'0.1\', \'Decimal(4, 4)\') + CAST(\'0.2\', \'Decimal(4, 4)\')
 [1]
 [[1,2,3],[],[1]]
 [[],[]]
+hello

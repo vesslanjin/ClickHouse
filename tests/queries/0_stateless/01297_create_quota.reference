@@ -64,3 +64,4 @@ q4_01297	604800	0	\N	\N	\N	\N	\N	\N	\N	\N	\N
 -- query_selects query_inserts
 CREATE QUOTA q1_01297 KEYED BY user_name FOR INTERVAL 1 minute MAX query_selects = 1 TO r1_01297
 CREATE QUOTA q2_01297 KEYED BY user_name FOR INTERVAL 1 minute MAX query_inserts = 1 TO r1_01297
+hello

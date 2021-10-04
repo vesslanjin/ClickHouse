@@ -81,3 +81,4 @@ DROP TABLE t2_shard;
 DROP TABLE t1_distr;
 DROP TABLE t2_distr;
 DROP DATABASE test_01824;
+hello

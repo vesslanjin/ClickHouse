@@ -84,3 +84,4 @@ Drop	TRUNCATE TABLE sqllt.table;
 Drop	DROP TABLE sqllt.table SYNC;
 	SET log_comment=\'\';
 DROP queries and also a cleanup after the test
+hello

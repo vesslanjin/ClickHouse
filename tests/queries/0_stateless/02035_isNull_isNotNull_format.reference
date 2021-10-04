@@ -7,3 +7,4 @@ explain syntax select isNull(null);
 SELECT NULL IS NULL
 explain syntax select isNotNull(null);
 SELECT NULL IS NOT NULL
+hello

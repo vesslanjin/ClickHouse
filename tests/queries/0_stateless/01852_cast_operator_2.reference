@@ -11,3 +11,4 @@ SELECT CAST([CAST(\'[1, 2]\', \'Array(UInt32)\'), [3]], \'Array(Array(UInt64))\'
 [[1,2],[3]]
 SELECT CAST([CAST([CAST(\'1\', \'UInt16\'), CAST(\'2\', \'UInt16\')], \'Array(UInt32)\'), [3]], \'Array(Array(UInt64))\')
 [(1,'a'),(3,'b')]	Nested(u UInt8, s String)
+hello

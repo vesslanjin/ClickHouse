@@ -50,3 +50,4 @@ yandex
 SELECT if(number > 5, \'yandex\', \'google\')
 FROM system.numbers
 LIMIT 10
+hello

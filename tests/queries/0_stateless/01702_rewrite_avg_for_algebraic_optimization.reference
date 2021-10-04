@@ -21,3 +21,4 @@ value: 	2.25
 EXPLAIN syntax:
 SELECT avg(number) / 2
 FROM numbers(10)
+hello

@@ -160,3 +160,4 @@ FROM numbers(3)
 ORDER BY
     x DESC,
     toFloat32(x) DESC
+hello

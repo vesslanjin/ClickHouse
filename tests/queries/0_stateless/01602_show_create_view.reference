@@ -5,3 +5,4 @@ CREATE VIEW test_1602.VIEW\n(\n    `EventDate` DateTime,\n    `CounterID` UInt32
 CREATE VIEW test_1602.DATABASE\n(\n    `EventDate` DateTime,\n    `CounterID` UInt32,\n    `UserID` UInt32\n) AS\nSELECT *\nFROM test_1602.tbl
 CREATE VIEW test_1602.DICTIONARY\n(\n    `EventDate` DateTime,\n    `CounterID` UInt32,\n    `UserID` UInt32\n) AS\nSELECT *\nFROM test_1602.tbl
 CREATE VIEW test_1602.TABLE\n(\n    `EventDate` DateTime,\n    `CounterID` UInt32,\n    `UserID` UInt32\n) AS\nSELECT *\nFROM test_1602.tbl
+hello

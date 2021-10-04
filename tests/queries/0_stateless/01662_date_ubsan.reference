@@ -32,3 +32,4 @@ SELECT addDays(toDateTime('2021-01-01 00:00:00', 'GMT'), inf);
 2021-01-01 00:00:00
 SELECT addYears(toDateTime('2021-01-01 00:00:00', 'GMT'), inf);
 2021-01-01 00:00:00
+hello

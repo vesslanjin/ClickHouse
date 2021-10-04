@@ -8,3 +8,4 @@ x	Date	DEFAULT	\'2000-01-01\'
 s	String	DEFAULT	\'Hello\'			
 x	Date	DEFAULT	\'2000-01-01\'			
 s	String	DEFAULT	\'Hello\'			
+hello

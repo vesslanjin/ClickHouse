@@ -12,3 +12,4 @@ mutation_7.txt	DELETE WHERE m = 3	['']	[7]	0	1
 *** Test mutations cleaner ***
 mutation_3.txt	DELETE WHERE x = 2	1
 mutation_4.txt	DELETE WHERE x = 3	1
+hello

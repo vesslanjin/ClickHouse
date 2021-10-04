@@ -14,3 +14,4 @@ VisitID	UInt64
 UserID	UInt64					
 StartTime	DateTime					
 ClickLogID	UInt64					
+hello

@@ -66,3 +66,4 @@ s4_01294	\N	\N	0	max_memory_usage	5000000	\N	\N	\N	\N
 s5_01294	\N	\N	0	\N	\N	\N	\N	\N	default
 s5_01294	\N	\N	1	readonly	0	\N	\N	\N	\N
 s5_01294	\N	\N	2	max_memory_usage	\N	\N	6000000	0	\N
+hello

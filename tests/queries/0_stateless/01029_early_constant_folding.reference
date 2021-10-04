@@ -9,3 +9,4 @@ WHERE 1 IN ((
 ) AS subquery)
 SELECT 1
 WHERE NOT ignore()
+hello

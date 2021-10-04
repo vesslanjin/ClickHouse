@@ -18,3 +18,4 @@ asof using
 asof on
 1	1	2	2	UInt8	UInt8	UInt8	UInt8
 1	1	2	2	UInt8	UInt8	Nullable(UInt8)	UInt8
+hello

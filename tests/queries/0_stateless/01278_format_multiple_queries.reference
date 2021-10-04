@@ -14,3 +14,4 @@ FROM table2 AS t
 WHERE t.id != 0
 ;
 
+hello

@@ -64,3 +64,4 @@ constants:	(NULL,[])	9	('a\0\0\0',[])	13	('a\0\0\0',[(NULL,'a')])	24	('a\0\0\0',
 constants:	[(NULL,[]),('a\0\0\0',[]),('a\0\0\0',[(NULL,'a')]),('a\0\0\0',[(NULL,'a'),(NULL,'a')])]
 constants:	Array(Tuple(Nullable(FixedString(4)), Array(Tuple(Nullable(Nothing), String))))
 constants:	93
+hello

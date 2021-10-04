@@ -4,3 +4,4 @@
 2019-09-16 19:20:11.000000000	DateTime64(9, \'UTC\')
 non-const column
 2019-09-16 19:20:11.000	DateTime64(3, \'UTC\')
+hello

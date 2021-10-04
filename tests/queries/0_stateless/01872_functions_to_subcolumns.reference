@@ -45,3 +45,4 @@ ALL FULL OUTER JOIN
 ) AS right USING (id)
 0	10
 0	20
+hello

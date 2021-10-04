@@ -56,3 +56,4 @@ NOT IN with non existing key
 0	{'K0':'V0'}
 1	{'K1':'V1'}
 NOT IN with non existing key and default value
+hello

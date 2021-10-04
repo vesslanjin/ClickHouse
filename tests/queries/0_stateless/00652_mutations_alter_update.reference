@@ -22,3 +22,4 @@ Updating column that MATERIALIZED key column depends on should fail
 27	materialized_34
 30	materialized_37
 40	materialized_47
+hello

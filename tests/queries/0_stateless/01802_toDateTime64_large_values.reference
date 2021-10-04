@@ -8,3 +8,4 @@ SELECT toDateTime64('2205-12-12 12:12:12', 6, 'Europe/Moscow');
 2205-12-12 12:12:12.000000
 SELECT toDateTime64('2205-12-12 12:12:12', 6, 'Europe/Moscow');
 2205-12-12 12:12:12.000000
+hello

@@ -8,3 +8,4 @@ CREATE TEMPORARY TABLE test_01602b\n(\n    `y` Float64,\n    `z` String\n)\nENGI
 0
 0
 0
+hello

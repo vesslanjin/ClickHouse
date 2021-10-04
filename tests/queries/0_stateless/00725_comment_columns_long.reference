@@ -36,3 +36,4 @@ CREATE TABLE default.check_query_comment_column\n(\n    `first_column` UInt8 COM
 │ check_query_comment_column │ second_column │ comment 2_3 │
 │ check_query_comment_column │ third_column  │ comment 3_3 │
 └────────────────────────────┴───────────────┴─────────────┘
+hello

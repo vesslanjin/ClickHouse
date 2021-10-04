@@ -11,3 +11,4 @@ optimize_skip_unused_shards lack of WHERE (optimize_distributed_group_by_shardin
 1
 0
 1
+hello

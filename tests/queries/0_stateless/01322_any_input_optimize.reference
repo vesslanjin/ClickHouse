@@ -30,3 +30,4 @@ FROM numbers(1, 2)
 6	6
 arrayJoin
 0	[]
+hello

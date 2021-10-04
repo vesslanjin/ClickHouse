@@ -88,3 +88,4 @@ CREATE TABLE default.table_for_rename\n(\n    `date` Date,\n    `key` UInt64,\n 
 2019-10-01	27	27	28	29
 2019-10-02	28	28	29	30
 2019-10-03	29	29	30	31
+hello

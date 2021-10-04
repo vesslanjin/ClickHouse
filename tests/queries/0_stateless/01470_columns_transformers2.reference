@@ -2,3 +2,4 @@
 0
 SELECT argMax(number, number)
 FROM numbers(1)
+hello

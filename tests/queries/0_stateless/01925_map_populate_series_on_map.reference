@@ -65,3 +65,4 @@ select mapPopulateSeries(map(toInt64(-10), toInt64(1), 2, 1), toInt64(-5)) as re
 select mapPopulateSeries(); -- { serverError 42 }
 select mapPopulateSeries('asdf'); -- { serverError 43 }
 select mapPopulateSeries(map('1', 1, '2', 1)) as res, toTypeName(res); -- { serverError 43 }
+hello
