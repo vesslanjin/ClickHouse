@@ -65,7 +65,7 @@ def process_test_log(log_path):
             elif len(test_results) > 0 and test_results[-1][1] == "FAIL":
                 test_results[-1][3].append(line)
 
-    test_results = [(test[0], test[1], test[2], ''.join(test[3])) for test in test_results]
+    test_results = [(test[0], test[1], test[2], '\n'.join(test[3])) for test in test_results]
 
     return total, skipped, unknown, failed, success, hung, task_timeout, retries, test_results
 
